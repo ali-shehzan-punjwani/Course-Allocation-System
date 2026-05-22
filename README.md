@@ -9,8 +9,8 @@ A professional console-based course allocation system built using Java. This pro
 
 ## 📫 Contact
 
-**Shehzan Sohail**  
+**Ali Shehzan Punjwani**  
 🎓 BSCS Student @ Iqra University  
 📍 Karachi, Pakistan  
 📧 shehzansohail5637@gmail.com  
-🔗 [linkedin.com/in/shehzan-sohail](https://linkedin.com/in/shehzan-sohail)
+🔗 https://www.linkedin.com/in/ali-shehzan-punjwani/
